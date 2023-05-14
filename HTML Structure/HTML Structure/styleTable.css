@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid #CCC;
+    padding: 0.5em 1em;
+}
+
+table thead th{
+    background: rgb(68, 139, 220);
+    color: white;
+}
+
+table tbody tr:nth-child(odd) td{
+    background: rgb(156, 203, 249);
+}
