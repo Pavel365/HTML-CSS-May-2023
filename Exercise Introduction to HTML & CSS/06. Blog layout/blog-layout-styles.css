@@ -1,0 +1,14 @@
+nav{
+    background: red;
+}
+
+.navbar-sidebar,
+.navbar-sidebar a{
+    background: blue;
+    color: #FFFFFFFF;
+}
+
+footer li > a,
+header nav a{
+    text-decoration: line-through;
+}
